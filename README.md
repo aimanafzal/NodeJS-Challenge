@@ -1,7 +1,5 @@
-# Turing Back End Challenge
+# NodeJS-Challenge
 
-## API DOCUMENT CAN BE FOUND here:
-https://docs.google.com/document/d/1quL6ixE8bhPyv-UwuhfkEXQJew21QQVjAIBTjtOtdk0/edit?usp=sharing
 
 ## Database is already configured on cloud and credentials are available in .env file
 ## Since the Database is already configured in the .env file. Please skip the MYSQL configuration area mentioned in the Getting Started 
